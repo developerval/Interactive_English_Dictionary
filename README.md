@@ -7,3 +7,7 @@
 ## Modules used
 
 ### json & difflib
+
+## Notes
+
+### data.json is a large (~5MB) file that github won't display, it's essentially just a huge json file of terms and definitions used for this project
